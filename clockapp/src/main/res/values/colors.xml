@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bright_red">#FF003B</color>
+    <color name="pale_coral">#650040</color>
+    <color name="very_dark_coral">#47003E</color>
+    <color name="coral">#BF08BC</color>
+    <color name="light_coral">#ED55F8</color>
+    <color name="green_variant">#34B417</color>
+    <color name="dark_coral">#8D0097</color>
+    <color name="light_green">#F1CFFA</color>
+    <color name="light_gray">#F3F3F3</color>
+    <color name="gray">#5C5C5C</color>
+</resources>

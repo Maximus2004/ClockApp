@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ClockCustomView</string>
+    <string name="clock_custom_view">Clock Custom View</string>
+    <string name="Clock">Часы</string>
+    <string name="go_to_store">Перейти в магазин часов</string>
+    <string name="back">Назад</string>
+</resources>

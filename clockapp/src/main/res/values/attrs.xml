@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ClockView">
+        <attr name="base" format="color" />
+        <attr name="text" format="color" />
+        <attr name="frame" format="color" />
+        <attr name="dots" format="color" />
+        <attr name="hourArrow" format="color" />
+        <attr name="minuteArrow" format="color" />
+        <attr name="secondArrow" format="color" />
+    </declare-styleable>
+</resources>
